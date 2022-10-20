@@ -1,5 +1,5 @@
 # Alura Space
--https://alura-space-opal.vercel.app/
+- https://alura-space-opal.vercel.app/
 
 - Projeto desenvolvido durante um curso de **React** da Alura
 
