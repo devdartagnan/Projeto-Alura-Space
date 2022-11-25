@@ -14,3 +14,4 @@ Rápida descrição do objetivo de fazer esse projeto
 ## Detalhes do projeto
 
 Projeto desenvolvido durante um curso de **React** da Alura, com maior intuito de criar filtros por tags.
+- Futuros passos seriam habilitar todas as outras funções, e páginas. 
